@@ -9,7 +9,7 @@ export default function Home() {
       <div className="grid gap-8 md:grid-cols-2 md:gap-12 items-center">
         <div className="space-y-6">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl xl:text-6xl/none">
-            Hi, I'm Ganesh R Nayak
+            Hi, I'm Ganesh Nayak
           </h1>
           <p className="text-xl text-muted-foreground">
             A passionate full-stack developer focused on building beautiful and user-friendly applications
